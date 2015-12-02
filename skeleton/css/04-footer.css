@@ -1,1 +1,33 @@
 /* PHASE 4: Footer */
+.footer {
+  background: #fff;
+  margin: auto;
+  width: 900px;
+  color: #aaa;
+  font-size: 14px;
+  /*font-weight: 300;*/
+}
+
+.footer-nav {
+  height: 56px;
+}
+
+.footer-rights {
+  float: left;
+  margin: 20px;
+  font-weight: 400;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  float: left;
+  margin: 20px;
+  /*padding-left: 20px;*/
+}
+
+.footer-nav a:hover {
+  color: #000;
+}
